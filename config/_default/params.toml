@@ -82,12 +82,12 @@ enableCodeCopy = true
   showTermCount = true
 
 [firebase]
-  apiKey = "AIzaSyCf6ycUyUgAXX023HHsREwT4udXz6i8gn0",
-  authDomain = "argimlasblog.firebaseapp.com",
-  projectId = "argimlasblog",
-  storageBucket = "argimlasblog.appspot.com",
-  messagingSenderId = "97960425823",
-  appId = "1:97960425823:web:ded6c602ebb8f875a81eea",
+  apiKey = "AIzaSyCf6ycUyUgAXX023HHsREwT4udXz6i8gn0"
+  authDomain = "argimlasblog.firebaseapp.com"
+  projectId = "argimlasblog"
+  storageBucket = "argimlasblog.appspot.com"
+  messagingSenderId = "97960425823"
+  appId = "1:97960425823:web:ded6c602ebb8f875a81eea"
   measurementId = "G-FT10G9N03B"
 
 [fathomAnalytics]
