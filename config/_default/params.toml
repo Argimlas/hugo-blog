@@ -38,8 +38,8 @@ enableCodeCopy = true
 
 [article]
   showDate = true
-  #showViews = true
-  #showLikes = true
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
@@ -67,8 +67,8 @@ enableCodeCopy = true
   #heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = false
   showSummary = false
-  #showViews = true
-  #showLikes = true
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   showCards = false
   groupByYear = true
