@@ -16,12 +16,12 @@
   weight = 10
 
 [[main]]
-  name = "DIY Projects"
+  name = "DIY"
   pageRef = "projects"
   weight = 20
 
 [[main]]
-  name = "Lego Technic Projects"
+  name = "Lego"
   pageRef = "lego"
   weight = 30
 

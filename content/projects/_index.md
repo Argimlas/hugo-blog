@@ -7,7 +7,4 @@ cascade:
   showAuthor: false
   invertPagination: true
 ---
-
-TODO Text
-
----
+ToDo Text
