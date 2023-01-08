@@ -16,19 +16,24 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
+  name = "DIY Projects"
   pageRef = "projects"
   weight = 20
 
 [[main]]
+  name = "Lego Technic Projects"
+  pageRef = "lego"
+  weight = 30
+
+[[main]]
   name = "Music"
   pageRef = "music"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 40
+  weight = 50
 
 
 # -- Footer Menu --
