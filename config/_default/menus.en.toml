@@ -15,26 +15,6 @@
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  name = "DIY"
-  pageRef = "projects"
-  weight = 20
-
-[[main]]
-  name = "Lego"
-  pageRef = "lego"
-  weight = 30
-
-[[main]]
-  name = "Music"
-  pageRef = "music"
-  weight = 40
-
-[[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 50
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
